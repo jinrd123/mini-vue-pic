@@ -1,0 +1,1 @@
+![56a87773a1eec3b9da63b6376863f899](../images/effect.ts.png)
